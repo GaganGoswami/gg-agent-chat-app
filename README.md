@@ -1,3 +1,5 @@
-# Agent App
+# Agent React App
 
-# TODO: ADD README
+# This project is setup to work with LangGraph, LangChain, Local Ollama and React application
+
+
